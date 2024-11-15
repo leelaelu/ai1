@@ -5,10 +5,10 @@ import streamlit as st
 import pandas as pd
 
 # 1. 제목
-st.title("Streamlit 기본 예제 페이지")
+st.title("이태경의 인터넷 페이지")
 
 # 2. 부제목
-st.subheader("이 페이지는 다양한 Streamlit 기능을 보여줍니다.")
+st.subheader("강원사대부고")
 
 # 3. 판다스 데이터프레임 기반 표 출력
 df = pd.DataFrame({
